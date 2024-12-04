@@ -1,4 +1,4 @@
-src/__pycache__
+src/
 
 data/labeled/labels_with_artists.csv
 data/features.csv
